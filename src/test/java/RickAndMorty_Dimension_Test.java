@@ -1,12 +1,11 @@
 import configRickAndMorty.BaseClass;
 import org.junit.Test;
 
-import java.awt.*;
 import java.util.List;
 
 import static io.restassured.RestAssured.when;
 
-public class RickAndMortyTest_Dimension extends BaseClass {
+public class RickAndMorty_Dimension_Test extends BaseClass {
     static String baseURL = "location";
 
 
